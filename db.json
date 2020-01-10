@@ -2,57 +2,93 @@
   "articles": [
   {
     "id": 1,
-    "title": "women1",
+    "title": "‘Kyoko’ knit / black stripe",
     "category": "women",
-    "path": "https://res.cloudinary.com/dkhxa5v7r/image/upload/v1578052990/Webshop/whikingboots_ute33h.png"
+    "price": "68,00€",
+    "brand": "Dr. Denim",
+    "stars": 4,
+    "description": "Dr Denim Knit",
+    "path": "https://res.cloudinary.com/dkhxa5v7r/image/upload/v1578656361/Webshop/catwomen_g4hque.jpg"
   },
   {
     "id": 2,
-    "title": "women2",
+    "title": "‘Sana’ jacket / black",
     "category": "women",
-    "path": "../assets/2.jpg"
+    "price": "108,00€",
+    "brand": "Dr. Denim",
+    "stars": 5,
+    "description": "Dr Denim 100% cotton jacket with faux fur lining",
+    "path": "https://res.cloudinary.com/dkhxa5v7r/image/upload/v1578656635/Webshop/women2_jgsjyj.jpg"
   },
   {
     "id": 3,
-    "title": "women3",
+    "title": "‘Cadell’ jeans / nostalgic blue",
     "category": "women",
-    "path": "../assets/3.jpg"
+    "price": "56,00€",
+    "brand": "Dr. Denim",
+    "stars": 4,
+    "description": "Mid waist Dr Denim jeans",
+    "path": "https://res.cloudinary.com/dkhxa5v7r/image/upload/v1578656637/Webshop/women3_l1ghtx.jpg"
   },
   {
     "id": 4,
-    "title": "men1",
+    "title": "‘Caleb’ jacket / black",
     "category": "men",
-    "path": "../assets/4.jpg"
+    "price": "116,00€",
+    "brand": "Dr. Denim",
+    "stars": 4,
+    "description": "Dr Denim cotton cord jacket with faux fur lining",
+    "path": "https://res.cloudinary.com/dkhxa5v7r/image/upload/v1578656361/Webshop/catmen_n956ux.jpg"
   },
   {
     "id": 5,
-    "title": "men2",
+    "title": "Berg Jacket / black",
     "category": "men",
-    "path": "../assets/5.jpg"
+    "price": "168,00€",
+    "brand": "Makia",
+    "stars": 4,
+    "description": "Shell: 100% recycled polyester",
+    "path": "https://res.cloudinary.com/dkhxa5v7r/image/upload/v1578656633/Webshop/men2_b5ez8c.jpg"
   },
   {
     "id": 6,
-    "title": "men3",
+    "title": "Type 3 Sherpa Trucker / desert boots",
     "category": "men",
-    "path": "../assets/6.jpg"
+    "price": "112,00€",
+    "brand": "Levi's Classic",
+    "stars": 4,
+    "description": "Levi’s Sherpa lining at body; Quilted lining at sleeves; Side hem adjusters",
+    "path": "https://res.cloudinary.com/dkhxa5v7r/image/upload/v1578656633/Webshop/men3_xllxiu.jpg"
   },
   {
     "id": 7,
-    "title": "acc1",
+    "title": "‘Shiloh’ beanie / black",
     "category": "accessories",
-    "path": "../assets/6.jpg"
+    "price": "22,00€",
+    "brand": "Wemoto",
+    "stars": 4,
+    "description": "Wemoto beanie",
+    "path": "https://res.cloudinary.com/dkhxa5v7r/image/upload/v1578656359/Webshop/catacc_t3xdc9.jpg"
   },
   {
     "id": 8,
-    "title": "acc2",
+    "title": "Leather mini backpack / black",
     "category": "accessories",
-    "path": "../assets/6.jpg"
+    "price": "130,00€",
+    "brand": "JDK",
+    "stars": 5,
+    "description": "Jdk handcrafted backpack",
+    "path": "https://res.cloudinary.com/dkhxa5v7r/image/upload/v1578656633/Webshop/accessories2_pmunnh.jpg"
   },
   {
-    "id": 9,
-    "title": "acc3",
+    "id": 8,
+    "title": "‘Ripon’ socks / black melange",
     "category": "accessories",
-    "path": "../assets/6.jpg"
-  }    
+    "price": "15,00€",
+    "brand": "Wemoto",
+    "stars": 4,
+    "description": "Wemoto socks",
+    "path": "https://res.cloudinary.com/dkhxa5v7r/image/upload/v1578656632/Webshop/accessories3_djivzd.jpg"
+  }  
 ]
 }
